@@ -1,4 +1,4 @@
-
+console.log("Hi friends!");
 
 
 

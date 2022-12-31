@@ -1,5 +1,5 @@
 console.log("Hi friends!");
-
+require("./triangle").triangle();
 
 
 
